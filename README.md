@@ -2,3 +2,5 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/aiszymon/Crypto-NLTK-)
 
+In this project I've searched for correlations between the Bitcoin value over 2021 and tweets from the most influencial accounts related to the topic using sentiment analysis and much more!
+
